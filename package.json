@@ -22,12 +22,6 @@
     "start:dev": "nodemon --exec \"yarn run start\""
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
-    "@babel/plugin-proposal-class-properties": "^7.12.1",
-    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
-    "@babel/preset-env": "^7.12.11",
-    "@babel/preset-typescript": "^7.12.7",
     "@stryker-mutator/core": "^4.3.1",
     "@stryker-mutator/jest-runner": "^4.3.1",
     "@types/jest": "^26.0.20",
